@@ -1,5 +1,7 @@
 # Portal Acadêmico — versão do aluno
 
+# Grupo - João Victor, Lucas Gabriel, Joatan Fernandes, Hugo Fonseca
+
 ## Objetivo do projeto
 
 implementar camada de autenticação, sessão e autorização sem reconstruir o banco, o CSS ou as views já prontas. O projeto inicial apresentava caminhos desprotegidos e a ausência de um sistema de login que verificasse os dados inseridos pelo usuário e mantivessem eles durante a sessão.
